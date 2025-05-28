@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 3raffat 👋</h1>
+<h1 align="center">Hi, I'm Mohammad 👋</h1>
 
 ---
 
