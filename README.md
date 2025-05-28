@@ -56,7 +56,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=3raffat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
  
   <img src="https://nirzak-streak-stats.vercel.app/?user=3raffat&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
