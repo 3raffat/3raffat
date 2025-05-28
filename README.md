@@ -47,7 +47,7 @@
 <!-- Package Managers -->
 
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=3raffat&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 
 </p>
 
