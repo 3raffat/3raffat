@@ -47,7 +47,9 @@
 <!-- Package Managers -->
 
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=3raffat&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+
+
 
 </p>
 
@@ -56,7 +58,9 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3raffat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br />
+ 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=3raffat&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+
 </p>
 
 ---
