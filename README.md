@@ -39,7 +39,7 @@
 ---
 
 ### 📈 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3raffat&theme=nord&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=3raffat&theme=nord&hide_border=false" alt="GitHub Streak" />
 
