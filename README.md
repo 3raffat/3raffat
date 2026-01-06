@@ -33,7 +33,7 @@
 ### 🚀 Tech Stack
 
 - **Languages:** C# , JavaScript , TypeScript
-- **Frameworks:** DotNet Core MVC & API , React
+- **Frameworks:** DotNet Core MVC & API , Angular
 - **Architecture:** Clean Architecture , REST APIs
 - **Databases:**  SqlServer , PostgreSQL 
 - **Tools:**  Git , Postman ,  vs code , visual studio 2022 
