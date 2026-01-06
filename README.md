@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 
 
-<p align="center">.NET Core Developer | React</p>
+<p align="center">.NET Core Developer </p>
 
 
 <div align="center">
